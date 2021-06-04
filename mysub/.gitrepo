@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = git@github.com:sailrish/mysub.git
+	branch = master
+	commit = c53e9bf8f922deff7905b19ecabf82c32f9db715
+	parent = 67631b9623271aa7b83616eeb174d9957d3afdf3
+	method = merge
+	cmdver = 0.4.3
